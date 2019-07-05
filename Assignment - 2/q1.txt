@@ -1,0 +1,12 @@
+([10, 20, 40, 80, 160, 320, 640, 1280, 2560, 5120], 
+[0.4, 0.4, 0.375, 0.45, 0.5, 0.459375, 0.4484375, 0.46875, 0.48671875, 0.469921875])
+
+('Strongly Connected Nodes: ', 32223)
+('Initial Out Nodes: ', 47676)
+('Out Nodes after deleting SCC Nodes', 15453)
+('Initial In Nodes: ', 56459)
+('In Nodes after deleting SCC Nodes', 24236)
+('In Tendril - Nodes: ', 1)
+('Out Tendril - Nodes: ', 1)
+('Nodes in Tube: ', 0)
+('All the Disconnected Nodes: ', 3967)
